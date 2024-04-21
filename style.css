@@ -411,7 +411,7 @@ main, img
 .footer
 {
     width: 300px;
-    margin: 50px 0 0 60px;
+    margin: 50px 0 0 40px;
     display: grid;
     align-items: center;
 }
